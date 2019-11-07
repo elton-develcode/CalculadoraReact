@@ -61,6 +61,11 @@ cd lm-instala-parameters
 ```
 docker-compose pull && docker-compose up
 ```
+> Check in the docker-compose.yml file what port will be exposed on your host and ensure that they are not already used.
+
+When all components are started, you can access the app at :
+* **http://localhost:8080**
+
 
 ## Environment variables:
 Set the following variables for the project in _docker-compse.yml_:
