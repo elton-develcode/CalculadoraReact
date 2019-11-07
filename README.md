@@ -38,6 +38,27 @@ Basic technologies / hardware needed for the project:
 
 ### Quick start
 
+1. Login with Docker to the required Artifactory docker registries :
+
+```sh
+docker login adeo-docker-lmfr-api-release.jfrog.io
+docker login adeo-docker-lmfr-api-dev.jfrog.io
+```
+
+> To login to Artifactory docker registries, you have to use you LDAP account as login and your API Key as password. If you don't already have an API Key, you can generate one [here](https://adeo.jfrog.io/adeo/webapp/).
+
+2. Clone this repository and go to the demo folder:
+
+```sh
+git clone https://github.com/adeo/innersource-advisor.git
+cd innersource-advisor/demo
+```
+
+3. Use docker-compose to start :
+
+```
+docker-compose pull && docker-compose up
+```
 
 ## Environment variables:
 Set the following variables for the project in _docker-compse.yml_:
