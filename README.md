@@ -15,7 +15,7 @@
 
 </br></br>
 ## Requirements
-#### Basic technologies needed for the project:
+Basic technologies needed for the project:
 </br>
 
 > - [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit (min version 8)
@@ -28,7 +28,7 @@
 </br></br>
 
 ## Environment variables:
-#### Set the following variables for the project:
+Set the following variables for the project:
 </br>
 
  > ##### JWT_SECRET = {jwt_secret} </br>
