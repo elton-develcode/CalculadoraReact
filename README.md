@@ -22,8 +22,8 @@ Basic technologies needed for the project:
   * [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit 8+
   * [Maven](https://maven.apache.org/) - Dependency management 3.3+
   * [Mysql](https://www.mysql.com/) - Database 8+
-  * [docker](https://docs.docker.com/install) - Infrastructure settings 17.06.0+ 
-  * [docker-compose](https://docs.docker.com/compose/install) - Container orchestrator 1.6.0+
+  * [Docker](https://docs.docker.com/install) - Infrastructure settings 17.06.0+ 
+  * [Docker-compose](https://docs.docker.com/compose/install) - Container orchestrator 1.6.0+
 
 </br></br>
 
