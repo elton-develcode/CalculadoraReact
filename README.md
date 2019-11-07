@@ -1,4 +1,4 @@
-[![NPM Version][npm-image]][npm-url]
+[![JAVA][npm-image]][java-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 </br></br></br></br>
@@ -41,7 +41,7 @@ Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port
 
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
+[java-url]: https://www.oracle.com/technetwork/pt/java/javase/overview/index.html
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
