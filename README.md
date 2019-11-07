@@ -104,6 +104,9 @@ services:
       API_KEY: key
 ```
 </br>
+ ## Attention: _Important file identification_
+</br>
+
 
 After configuring docker-compose, at the root of the folder execute the command:</br> 
 > docker-compose up --build
