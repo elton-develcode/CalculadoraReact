@@ -21,7 +21,7 @@ Basic technologies needed for the project:
  - [Mysql](https://www.mysql.com/) - Database
  - [Docker](https://www.docker.com/) - Infrastructure settings
  - [Docker-compose](https://docs.docker.com/compose/) - Container orchestrator
- - [Firebase](DEVELOPERS.md)
+ - [Firebase](https://firebase.google.com/?hl=pt-BR) - Database for mobile and web
 
 </br></br>
 
