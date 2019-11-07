@@ -40,7 +40,7 @@ Basic technologies / hardware needed for the project:
 
 1. Login with Docker to the required Artifactory docker registries :
 
-```sh
+```
 docker login adeo-docker-lmfr-api-release.jfrog.io
 
 docker login adeo-docker-lmfr-api-dev.jfrog.io
@@ -50,7 +50,7 @@ docker login adeo-docker-lmfr-api-dev.jfrog.io
 
 2. Clone this repository and go to the demo folder:
 
-```sh
+```
 git clone https://github.com/leroy-merlin-br/lm-instala-parameters.git
 
 cd lm-instala-parameters
