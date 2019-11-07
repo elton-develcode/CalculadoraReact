@@ -38,7 +38,7 @@ Simple Example: JWT_SECRET = {jwt_secret} </br></br>
  
  > DB_URL
  
- Is the required JDBC String to connect to mysql database with java or the mysql workbench tool.
+ Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
  Simple Example: DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br></br>
  
  > DB_USER
@@ -51,10 +51,24 @@ Simple Example: JWT_SECRET = {jwt_secret} </br></br>
  Parameter required for database access authorization.
  Simple Example: DB_PASSWORD = {password} </br></br>
  
- MAIL_HOST = {mail_host} </br>
- MAIL_PORT = {mail_port} </br>
- MAIL_USER = {mail_user} </br>
- MAIL_PASSWORD = {mail_password} </br>
+ > MAIL_HOST
+ 
+ Parameter required for authorization to access the deploy platform.
+ Simple Example: MAIL_HOST = {mail_host} </br></br>
+ 
+ > MAIL_PORT
+ 
+ Parameter required for authorization to access the deploy platform.
+ Simple Example: MAIL_PORT = {mail_port} </br></br>
+ 
+ > MAIL_USER
+ Parameter required for authorization to access the deploy platform.
+ Simple Example: MAIL_USER = {mail_user} </br></br>
+ 
+ > MAIL_PASSWORD
+ 
+ Parameter required for authorization to access the deploy platform.
+ Simple Example: MAIL_PASSWORD = {mail_password} </br></br>
 
 </br>
 
