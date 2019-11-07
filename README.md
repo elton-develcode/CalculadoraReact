@@ -83,49 +83,49 @@ cd lm-instala-parameters
   JWT_SECRET = {jwt_secret}
  ```
 
- **DB_URL**
+ ***DB_URL***
  
   Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
  ```
   DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
  ```
  
- **DB_USER**
+ ***DB_USER***
  
   Parameter required for database access authorization.
   ```
    DB_USER = {username}
   ```
  
- **DB_PASSWORD**
+ ***DB_PASSWORD***
  
  Parameter required for database access authorization.
  ```
   DB_PASSWORD = {password}
  ```
  
- **MAIL_HOST**
+ ***MAIL_HOST***
  
  Parameter required for authorization to access the deploy platform.
  ```
   MAIL_HOST = {mail_host}
  ```
  
- **MAIL_PORT**
+ ***MAIL_PORT***
  
  Parameter required for authorization to access the deploy platform.
  ```
   MAIL_PORT = {mail_port}
  ```
  
- **MAIL_USER**
+ ***MAIL_USER***
  
  Parameter required for authorization to access the deploy platform.
  ```
   MAIL_USER = {mail_user}
  ```
  
- **MAIL_PASSWORD**
+ ***MAIL_PASSWORD***
  
  Parameter required for authorization to access the deploy platform.
  ```
@@ -169,12 +169,14 @@ cd lm-instala-parameters
 
 </br></br>
 
+### Running it
+
 1. On terminal type
 ```
 mvn clean install -Dmaven.test.skip=true
 ```
 
-4. Use docker-compose to start :
+2. Use docker-compose to start :
 
 ```
 docker-compose up --build
@@ -185,20 +187,8 @@ When all components are started, you can access the app at :
 * **http://localhost:8080**
 
 
+</br></br>
 
-### Running the project
-
-1. Clone lm-install-parameters
-> git clone url_parameters
-
-
-2. On terminal type 
-> mvn clean install -Dmaven.test.skip=true
-
-3. After configuring docker-compose, on terminal at the root of the folder execute the command:
-> docker-compose up --build
-
-</br></br></br>
 
 # Main Features
 
