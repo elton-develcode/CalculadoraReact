@@ -2,7 +2,7 @@
 <img width=40% align="right" src="https://github.com/elton-develcode/images/blob/master/logos/develcode.png">
 
 
-</br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br>
 
 # Lm-Instala-Parameters
 
