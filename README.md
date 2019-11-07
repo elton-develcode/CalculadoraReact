@@ -105,7 +105,7 @@ services:
 ```
  ###### Attention: _Important file identification_
 
-</br>
+</br></br></br>
 
 ### Running the project
 
