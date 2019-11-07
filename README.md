@@ -1,6 +1,6 @@
 <img align="right" width="20%" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala_146x146.png">
 
-</br></br>
+</br>
 
 ## Lm-Instala-Parameters
 
@@ -15,6 +15,11 @@ The **Lm-Instala-Parameters** is a microservice for setting system parameters th
 
 </br></br>
 ## Requirements
+
+* **Software**
+  * [docker](https://docs.docker.com/install) 17.06.0+ and [docker-compose](https://docs.docker.com/compose/install) 1.6.0+
+
+
 Basic technologies needed for the project:
 </br>
 
