@@ -202,4 +202,6 @@ Maven himself is in charge of running the tests and returning the results.
 
 ## Contributing
 
-[co](https://github.com/leroy-merlin-br/lm-mobile-api/blob/developer/CONTRIBUTING.md)
+Reporting bugs or unexpected behavior, and/or non-standard code 
+
+[contributing.md](https://github.com/leroy-merlin-br/lm-mobile-api/blob/developer/CONTRIBUTING.md)
