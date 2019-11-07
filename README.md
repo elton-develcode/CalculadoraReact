@@ -26,7 +26,7 @@ The **Lm-Instala-Parameters** is a microservice for setting system parameters th
 
 </br>
 
-Any system that needs some configuration other than the default. A simple example is the translation setting that varies by country.
+Any system that needs some configuration other than the default.
 </br></br>
 
 ## Getting started
