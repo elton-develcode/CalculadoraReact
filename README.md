@@ -31,9 +31,9 @@ Basic technologies needed for the project:
 Set the following variables for the project:
 </br></br>
 
- - JWT
- JWT_SECRET = {jwt_secret} </br>
+ - JWT </br>
  JWT (JSON Web Token) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.
+> JWT_SECRET = {jwt_secret} </br>
  
  DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
  DB_USER = {username} </br>
