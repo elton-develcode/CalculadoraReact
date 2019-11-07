@@ -1,5 +1,4 @@
 <img width=40% align="left" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
-<img width=40% align="right" src="https://github.com/elton-develcode/images/blob/master/logos/develcode2.png">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 # Lm-Instala-Parameters
