@@ -16,7 +16,7 @@
 </br></br>
 ## Requirements
 Basic technologies needed for the project:
-</br>
+</br></br>
 
 > - [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit (min version 8)
 > - [Maven](https://maven.apache.org/) - Dependency management (mim version 3.3)
@@ -29,7 +29,7 @@ Basic technologies needed for the project:
 
 ## Environment variables:
 Set the following variables for the project:
-</br>
+</br></br>
 
  > ##### JWT_SECRET = {jwt_secret} </br>
  > ##### DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
@@ -40,7 +40,7 @@ Set the following variables for the project:
  > ##### MAIL_USER = {mail_user} </br>
  > ##### MAIL_PASSWORD = {mail_password} </br>
 
-</br></br></br>
+</br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
