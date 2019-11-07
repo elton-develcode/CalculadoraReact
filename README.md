@@ -62,6 +62,7 @@ Simple Example: JWT_SECRET = {jwt_secret} </br></br>
  Simple Example: MAIL_PORT = {mail_port} </br></br>
  
  > MAIL_USER
+ 
  Parameter required for authorization to access the deploy platform.
  Simple Example: MAIL_USER = {mail_user} </br></br>
  
@@ -69,8 +70,6 @@ Simple Example: JWT_SECRET = {jwt_secret} </br></br>
  
  Parameter required for authorization to access the deploy platform.
  Simple Example: MAIL_PASSWORD = {mail_password} </br></br>
-
-</br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
