@@ -10,7 +10,11 @@ Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** fo
 
 > Leroy Merlin Brazil - Team Instala
 
-</br></br>
+</br>
+
+**Why:** [State repository goals/what problem(s) it solves. [Why was it created](https://ianjseath.wordpress.com/2016/06/13/the-golden-circle-for-project-success-start-with-why/).]
+
+</br>
 
 ## What is this repository for
 </br>
