@@ -16,10 +16,11 @@
 - [Maven](https://maven.apache.org/) - Dependency management (mim version 3.3)
 - [Mysql](https://www.mysql.com/) - Database
 - [Docker](https://www.docker.com/) - Infrastructure settings
-- [docker-compose](https://www.docker.com/) - Container orchestrator
+- [Docker-compose](https://docs.docker.com/compose/) - Container orchestrator
 - [Firebase](DEVELOPERS.md)
 
-Environment variables:
+
+## Environment variables:
 
     JWT_SECRET = {jwt_secret}
 	DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} 
