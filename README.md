@@ -27,7 +27,7 @@ Basic technologies / hardware needed for the project:
 
 * **Hardware**
   * Core i3 processor or better
-  * 4Gb Ram
+  * 2Gb Ram (recommended min 4GB)
   * Internet Access (required for Github Login)
   
 </br></br>
