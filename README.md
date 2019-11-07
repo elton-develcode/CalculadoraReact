@@ -196,7 +196,9 @@ To run the tests, run the command
 ```
 mvn test
 ```
+Maven himself is in charge of running the tests and returning the results.
 
+</br>
 
 # Main Features
 
