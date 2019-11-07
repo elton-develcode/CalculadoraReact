@@ -115,5 +115,5 @@ services:
 2. On terminal type 
 > mvn clean install -Dmaven.test.skip=true
 
-3. On terminal, After configuring docker-compose, at the root of the folder execute the command:
+3. After configuring docker-compose, on terminal at the root of the folder execute the command:
 > docker-compose up --build
