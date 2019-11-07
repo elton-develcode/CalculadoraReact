@@ -16,6 +16,7 @@
 </br></br>
 ## Requirements
 </br>
+
 #### Basic technologies needed for the project:
 </br></br>
 
@@ -30,6 +31,7 @@
 
 ## Environment variables:
 </br>
+
 #### Set the following variables for the project:
 </br></br>
 
