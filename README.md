@@ -29,7 +29,7 @@
 ## Environment variables:
 </br>
 Set the following variables for the project:
-</br>
+</br></br>
 
  > ##### JWT_SECRET = {jwt_secret} </br>
  > ##### DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
