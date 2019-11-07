@@ -8,11 +8,11 @@ Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** fo
 
 > Leroy Merlin Brazil - Instala Team 
 
-</br>
+</br></br>
 
-**Why:** It was created to suit the install platform because it needs to configure parameters differently for each Base Unit (BU).
+**Why:** It was created to suit the install platform because it needs to configure parameters differently for each base unit (BU).
 
-**What:** Configures the parameters as registered and as base unit
+**What:** Configures the parameters as registered and as base unit (BU).
 </br></br></br>
 
 ## Summary
