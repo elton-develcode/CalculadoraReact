@@ -119,6 +119,6 @@ services:
 3. After configuring docker-compose, on terminal at the root of the folder execute the command:
 > docker-compose up --build
 
-</br></br></br></br>
+</br></br></br>
 
 # Main Features
