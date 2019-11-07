@@ -10,6 +10,8 @@ Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** fo
 </br>
 
 **Why:** It was created to suit the install platform because it needs to configure parameters differently for each Base Unit (BU).
+
+**What:** Configures the parameters as registered and as base unit
 </br>
 
 ## What is this repository for
