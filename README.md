@@ -51,7 +51,7 @@ Any system that needs some configuration other than the default. A simple exampl
   
  </br></br>
 
-### Quick start
+#### Installing It
 
 1. Login with Docker to the required Artifactory docker registries :
 
