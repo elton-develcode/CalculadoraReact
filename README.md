@@ -1,5 +1,5 @@
 <img width=40% align="left" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
-<img height=170 width=235 align="center" src="https://github.com/elton-develcode/images/blob/master/logos/develcode.png">
+<img width=40% align="right" src="https://github.com/elton-develcode/images/blob/master/logos/develcode.png">
 
 
 </br></br></br></br></br></br>
