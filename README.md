@@ -44,26 +44,12 @@ Any system that needs some configuration other than the default. A simple exampl
   * Core i3 processor or better
   * 2Gb Ram (recommended min 4GB)
   * Internet Access (required for Github Login)
-  
 
-* **Accounts**
-  * [Adeo Artifactory](https://adeo.jfrog.io) account with an API Key to access prebuild Docker images
-  
  </br></br>
 
 ### Installing It
 
-1. Login with Docker to the required Artifactory docker registries :
-
-```
-docker login adeo-docker-lmfr-api-release.jfrog.io
-
-docker login adeo-docker-lmfr-api-dev.jfrog.io
-```
-
-> To login to Artifactory docker registries, you have to use you LDAP account as login and your API Key as password. If you don't already have an API Key, you can generate one [here](https://adeo.jfrog.io/adeo/webapp/).
-
-2. Clone this repository and go to the demo folder:
+1. Clone this repository and go to the lm-instala-parameters folder:
 
 ```
 git clone https://github.com/leroy-merlin-br/lm-instala-parameters.git
