@@ -106,7 +106,14 @@ services:
  ###### Attention: _Important file identification_
 
 </br>
+### Running the project
+
+1. Clone lm-install-parameters
+> git clone url_parameters
 
 
-After configuring docker-compose, at the root of the folder execute the command:</br> 
+2. On terminal type 
+> mvn clean install -Dmaven.test.skip=true
+
+3. On terminal, After configuring docker-compose, at the root of the folder execute the command:
 > docker-compose up --build
