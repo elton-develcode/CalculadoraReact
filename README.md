@@ -34,8 +34,7 @@ Set the following variables for the project:
  > JWT </br>
  
 JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.</br> 
-###### Simple Example:  </br>
-JWT_SECRET = {jwt_secret} </br>
+###### Simple Example: JWT_SECRET = {jwt_secret} </br>
  
  DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
  DB_USER = {username} </br>
