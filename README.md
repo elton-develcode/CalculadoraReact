@@ -31,14 +31,14 @@ Basic technologies needed for the project:
 Set the following variables for the project:
 </br></br>
 
- > ##### JWT_SECRET = {jwt_secret} </br>
- > ##### DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
- > ##### DB_USER = {username} </br>
- > ##### DB_PASSWORD = {password} </br>
- > ##### MAIL_HOST = {mail_host} </br>
- > ##### MAIL_PORT = {mail_port} </br>
- > ##### MAIL_USER = {mail_user} </br>
- > ##### MAIL_PASSWORD = {mail_password} </br>
+ JWT_SECRET = {jwt_secret} </br>
+ DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
+ DB_USER = {username} </br>
+ DB_PASSWORD = {password} </br>
+ MAIL_HOST = {mail_host} </br>
+ MAIL_PORT = {mail_port} </br>
+ MAIL_USER = {mail_user} </br>
+ MAIL_PASSWORD = {mail_password} </br>
 
 </br>
 
