@@ -126,3 +126,7 @@ services:
 </br>
 
  - Translation Configuration Parameters
+ - Search parameters for internal modules
+ - Search parameters for extern modules (APIs) 
+ 
+ </br></br></br>
