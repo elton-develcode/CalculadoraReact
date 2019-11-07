@@ -31,7 +31,7 @@ Any system that needs some configuration other than the default. A simple exampl
 
 ## Getting started
 
-#### Getting it
+### Getting it
 
 * **Software**
   * [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit 8+
@@ -51,7 +51,7 @@ Any system that needs some configuration other than the default. A simple exampl
   
  </br></br>
 
-#### Installing It
+### Installing It
 
 1. Login with Docker to the required Artifactory docker registries :
 
@@ -71,25 +71,7 @@ git clone https://github.com/leroy-merlin-br/lm-instala-parameters.git
 cd lm-instala-parameters
 ```
 
-3. On terminal type
-```
-mvn clean install -Dmaven.test.skip=true
-```
-
-4. Use docker-compose to start :
-
-```
-docker-compose up --build
-```
-> Check in the docker-compose.yml file what port will be exposed on your host and ensure that they are not already used.
-
-When all components are started, you can access the app at :
-* **http://localhost:8080**
-
-
-## Environment variables:
-Set the following variables for the project in _docker-compse.yml_:
-</br></br>
+### Configuring It
 
 #### JWT 
  
@@ -168,6 +150,23 @@ services:
  ###### Attention: _Important file identification_
 
 </br></br>
+
+1. On terminal type
+```
+mvn clean install -Dmaven.test.skip=true
+```
+
+4. Use docker-compose to start :
+
+```
+docker-compose up --build
+```
+> Check in the docker-compose.yml file what port will be exposed on your host and ensure that they are not already used.
+
+When all components are started, you can access the app at :
+* **http://localhost:8080**
+
+
 
 ### Running the project
 
