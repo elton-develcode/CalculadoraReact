@@ -10,11 +10,13 @@
 
 ## What is this repository for
 </br>
+
 > The **Lm-Instala-Parameters** is for configuring system parameters, such as which service integrates with other APIs, as well as some settings of the system or module itself.
 
 </br></br>
 ## Requirements
 </br>
+
 > - [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit (min version 8)
 > - [Maven](https://maven.apache.org/) - Dependency management (mim version 3.3)
 > - [Mysql](https://www.mysql.com/) - Database
@@ -27,6 +29,7 @@
 ## Environment variables:
 </br>
 Set the following variables for the project:
+</br>
 
  > ##### JWT_SECRET = {jwt_secret} </br>
  > ##### DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
