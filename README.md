@@ -198,14 +198,8 @@ mvn test
 ```
 Maven himself is in charge of running the tests and returning the results.
 
-</br>
+</br></br>
 
-# Main Features
+## Contributing
 
-</br>
-
- - Translation Configuration Parameters
- - Search parameters for internal modules
- - Search parameters for extern modules (APIs) 
- 
- </br></br></br>
+[co](https://github.com/leroy-merlin-br/lm-mobile-api/blob/developer/CONTRIBUTING.md)
