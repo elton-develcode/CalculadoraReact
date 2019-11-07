@@ -72,5 +72,38 @@ Simple Example: JWT_SECRET = {jwt_secret} </br></br>
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
 
+Example for docker-compose.yml:
+</br>
+```
+version: '3.1'
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        PARAM: argument
+    container_name: name_for_container_docker
+    ports:
+      - 8089:8080
+    environment:
+      DB_URL: jdbc:mysql://db_url:3306/database
+      DB_USER: user
+      DB_PASSWORD: password
+      JWT_SECRET: token 
+      MAIL_HOST: email@email.com
+      MAIL_PORT: 123
+      MAIL_USER: User
+      MAIL_PASSWORD: password
+      API_INSTALA: http://localhost:8086/lm-instala-api
+      API_INSTALA_PDP: http://localhost:8087/lm-instala-provider
+      API_INSTALA_AUTH: http://localhost:8086/lm-instala-api
+      API_INSTALA_PARAM: http://localhost:8089/lm-instala-parameters
+      API_INSTALA_I18N: http://localhost:8086/lm-instala-api
+      API_INSTALA_SATSFTN: http://localhost:8086/lm-instala-rating
+      API_KEY: key
+```
+</br>
+
 After configuring docker-compose, at the root of the folder execute the command:</br> 
 > docker-compose up --build
