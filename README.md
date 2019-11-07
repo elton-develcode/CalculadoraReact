@@ -1,16 +1,11 @@
 <img align="right" width="20%" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala_146x146.png">
 
 # Lm-Instala-Parameters
-
-
+</br>
 Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for parameter definition project.
-
-
-
+</br>
 > Leroy Merlin Brazil - Team Instala
-
-
-
+</br>
 **Why:** It was created to suit the install platform because it needs to configure parameters differently for each Base Unit (BU).
 
 </br>
