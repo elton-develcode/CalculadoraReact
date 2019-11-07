@@ -83,7 +83,7 @@ cd lm-instala-parameters
   JWT_SECRET = {jwt_secret}
  ```
 
- ##### DB_URL
+ ###### DB_URL
  
   Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
  ```
