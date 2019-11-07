@@ -74,7 +74,7 @@ cd lm-instala-parameters
 
 ### Configuring It
 
- docker-compose.yml
+ Settings for docker-compose.yml
 
  **JWT** 
  
