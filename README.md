@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
+<img align="right" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
 
 # Lm-Instala-Parameters
 
