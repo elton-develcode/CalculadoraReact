@@ -29,9 +29,9 @@ The **Lm-Instala-Parameters** is a microservice for setting system parameters th
 Any system that needs some configuration other than the default. A simple example is the translation setting that varies by country.
 </br></br>
 
-### Requirements
+## Getting started
 
-Basic technologies / hardware needed for the project:
+#### Getting it
 
 * **Software**
   * [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit 8+
