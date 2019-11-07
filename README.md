@@ -74,6 +74,8 @@ cd lm-instala-parameters
 
 ### Configuring It
 
+docker-compose.yml
+
 **JWT** 
  
 JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.
@@ -129,7 +131,6 @@ DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
  ```
  MAIL_PASSWORD = {mail_password}
  ```
- </br>
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
 
