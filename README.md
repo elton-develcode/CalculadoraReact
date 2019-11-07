@@ -83,14 +83,14 @@ cd lm-instala-parameters
   JWT_SECRET = {jwt_secret}
  ```
 
- ###### DB_URL
+ ##### DB_URL
  
   Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
  ```
   DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
  ```
  
- ###### DB_USER
+ ##### DB_USER
  
   Parameter required for database access authorization.
   ```
@@ -104,7 +104,7 @@ cd lm-instala-parameters
   DB_PASSWORD = {password}
  ```
  
- ##### MAIL_HOST
+ ##### MAIL_HOST #####
  
  Parameter required for authorization to access the deploy platform.
  ```
