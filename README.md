@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
+<img align="right" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala.png">
 
 # Lm-Instala-Parameters
 
