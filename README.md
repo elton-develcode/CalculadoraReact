@@ -31,7 +31,7 @@ Any system that needs some configuration other than the default. A simple exampl
 
 ## Getting started
 
-#### Getting it
+#### Prerequisites
 
 * **Software**
   * [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit 8+
