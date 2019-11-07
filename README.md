@@ -74,96 +74,96 @@ cd lm-instala-parameters
 
 ### Configuring It
 
-docker-compose.yml
+ docker-compose.yml
 
-**JWT** 
+ **JWT** 
  
-JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.
-```
-JWT_SECRET = {jwt_secret}
-```
+   JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that   authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.
+ ```
+  JWT_SECRET = {jwt_secret}
+ ```
 
-#### DB_URL
+ **DB_URL**
  
-Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
-```
-DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
+  Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
+ ```
+  DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
  ```
  
- #### DB_USER
+ **DB_USER**
+ 
+  Parameter required for database access authorization.
+  ```
+   DB_USER = {username}
+  ```
+ 
+ **DB_PASSWORD**
  
  Parameter required for database access authorization.
  ```
- DB_USER = {username}
+  DB_PASSWORD = {password}
  ```
  
- #### DB_PASSWORD
- 
- Parameter required for database access authorization.
- ```
- DB_PASSWORD = {password}
- ```
- 
- #### MAIL_HOST
+ **MAIL_HOST**
  
  Parameter required for authorization to access the deploy platform.
  ```
- MAIL_HOST = {mail_host}
+  MAIL_HOST = {mail_host}
  ```
  
- #### MAIL_PORT
- 
- Parameter required for authorization to access the deploy platform.
- ```
- Simple Example: MAIL_PORT = {mail_port}
- ```
- 
- #### MAIL_USER
+ **MAIL_PORT**
  
  Parameter required for authorization to access the deploy platform.
  ```
- MAIL_USER = {mail_user}
+  MAIL_PORT = {mail_port}
  ```
  
- #### MAIL_PASSWORD
+ **MAIL_USER**
  
  Parameter required for authorization to access the deploy platform.
  ```
- MAIL_PASSWORD = {mail_password}
+  MAIL_USER = {mail_user}
  ```
-Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
+ 
+ **MAIL_PASSWORD**
+ 
+ Parameter required for authorization to access the deploy platform.
+ ```
+  MAIL_PASSWORD = {mail_password}
+ ```
+ Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
 
-Example for docker-compose.yml:
+ Example for docker-compose.yml:
 </br>
 ```
-version: '3.1'
-services:
-  web:
-    build:
-      context: .
-      dockerfile: Dockerfile
-      args:
-        PARAM: argument
-    container_name: name_for_container_docker
-    ports:
-      - 8089:8080
-    environment:
-      DB_URL: jdbc:mysql://db_url:3306/database
-      DB_USER: user
-      DB_PASSWORD: password
-      JWT_SECRET: token 
-      MAIL_HOST: email@email.com
-      MAIL_PORT: 123
-      MAIL_USER: User
-      MAIL_PASSWORD: password
-      API_INSTALA: http://localhost:8086/lm-instala-api
-      API_INSTALA_PDP: http://localhost:8087/lm-instala-provider
-      API_INSTALA_AUTH: http://localhost:8086/lm-instala-api
-      API_INSTALA_PARAM: http://localhost:8089/lm-instala-parameters
-      API_INSTALA_I18N: http://localhost:8086/lm-instala-api
-      API_INSTALA_SATSFTN: http://localhost:8086/lm-instala-rating
-      API_KEY: key
+ version: '3.1'
+ services:
+   web:
+     build:
+       context: .
+       dockerfile: Dockerfile
+       args:
+         PARAM: argument
+     container_name: name_for_container_docker
+     ports:
+       - 8089:8080
+     environment:
+       DB_URL: jdbc:mysql://db_url:3306/database
+       DB_USER: user
+       DB_PASSWORD: password
+       JWT_SECRET: token 
+       MAIL_HOST: email@email.com
+       MAIL_PORT: 123
+       MAIL_USER: User
+       MAIL_PASSWORD: password
+       API_INSTALA: http://localhost:8086/lm-instala-api
+       API_INSTALA_PDP: http://localhost:8087/lm-instala-provider
+       API_INSTALA_AUTH: http://localhost:8086/lm-instala-api
+       API_INSTALA_PARAM: http://localhost:8089/lm-instala-parameters
+       API_INSTALA_I18N: http://localhost:8086/lm-instala-api
+       API_INSTALA_SATSFTN: http://localhost:8086/lm-instala-rating
+       API_KEY: key
 ```
  ###### Attention: _Important file identification_
 
