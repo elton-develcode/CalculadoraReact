@@ -90,7 +90,7 @@ cd lm-instala-parameters
   DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
  ```
  
- ##### DB_USER
+ ###### DB_USER
  
   Parameter required for database access authorization.
   ```
