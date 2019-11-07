@@ -1,7 +1,5 @@
 <img align="right" width="20%" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala_146x146.png">
 
-</br>
-
 # Lm-Instala-Parameters
 
 Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for parameter definition project.
