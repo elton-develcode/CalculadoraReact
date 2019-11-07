@@ -22,7 +22,7 @@
 
 ## Environment variables:
 
- > JWT_SECRET = {jwt_secret}
+ > JWT_SECRET = {jwt_secret} </br>
  > DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} 
  > DB_USER = {username}
  > DB_PASSWORD = {password}
