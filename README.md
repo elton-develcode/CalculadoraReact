@@ -206,9 +206,12 @@ Reporting bugs or unexpected behavior, and/or non-standard code
 
  * [contributing.md](https://github.com/leroy-merlin-br/lm-mobile-api/blob/developer/CONTRIBUTING.md)
  
+ </br></br>
  
  ## Maintainers
   
   * Emerson Danieleski [email#email.com]
   * Gabriel [email#email.com]
   * João P. Grasselli [email#email.com]
+  
+  </br></br></br>
