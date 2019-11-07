@@ -12,7 +12,7 @@ The **Lm-Instala-Parameters** is for configuring system parameters, such as whic
 </br></br>
 
 ## Requirements
-- [x] JDK 8
+- [JDK 8](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html)
 - Maven >=3.3.x
 - Mysql
 - docker
