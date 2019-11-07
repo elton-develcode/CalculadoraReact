@@ -56,10 +56,15 @@ git clone https://github.com/leroy-merlin-br/lm-instala-parameters.git
 cd lm-instala-parameters
 ```
 
-3. Use docker-compose to start :
+3. On terminal type
+```
+mvn clean install -Dmaven.test.skip=true
+```
+
+4. Use docker-compose to start :
 
 ```
-docker-compose pull && docker-compose up
+docker-compose up --build
 ```
 > Check in the docker-compose.yml file what port will be exposed on your host and ensure that they are not already used.
 
