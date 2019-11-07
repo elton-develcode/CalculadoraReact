@@ -1,4 +1,6 @@
 <img height=170 width=235 align="left" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
+<img height=170 width=235 align="left" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
+
 
 </br></br></br></br></br></br>
 
