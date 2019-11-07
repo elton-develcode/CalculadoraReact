@@ -32,6 +32,11 @@ Basic technologies / hardware needed for the project:
   
 </br></br>
 
+* **Accounts**
+  * [Adeo Artifactory](https://adeo.jfrog.io) account with an API Key to access prebuild Docker images
+  
+ </br></br>
+
 ## Environment variables:
 Set the following variables for the project in _docker-compse.yml_:
 </br></br>
