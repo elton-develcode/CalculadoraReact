@@ -83,39 +83,53 @@ JWT_SECRET = {jwt_secret}
 
 #### DB_URL
  
- Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.</br>
- Simple Example: DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br></br>
+Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
+```
+DB_URL = jdbc:mysql://{ip}:{port}/{db_schema}
+ ```
  
  #### DB_USER
  
- Parameter required for database access authorization.</br>
- Simple Example: DB_USER = {username} </br></br>
+ Parameter required for database access authorization.
+ ```
+ DB_USER = {username}
+ ```
  
  #### DB_PASSWORD
  
- Parameter required for database access authorization.</br>
- Simple Example: DB_PASSWORD = {password} </br></br>
+ Parameter required for database access authorization.
+ ```
+ DB_PASSWORD = {password}
+ ```
  
  #### MAIL_HOST
  
- Parameter required for authorization to access the deploy platform.</br>
- Simple Example: MAIL_HOST = {mail_host} </br></br>
+ Parameter required for authorization to access the deploy platform.
+ ```
+ MAIL_HOST = {mail_host}
+ ```
  
  #### MAIL_PORT
  
- Parameter required for authorization to access the deploy platform.</br>
- Simple Example: MAIL_PORT = {mail_port} </br></br>
+ Parameter required for authorization to access the deploy platform.
+ ```
+ Simple Example: MAIL_PORT = {mail_port}
+ ```
  
  #### MAIL_USER
  
- Parameter required for authorization to access the deploy platform.</br>
- Simple Example: MAIL_USER = {mail_user} </br></br>
+ Parameter required for authorization to access the deploy platform.
+ ```
+ MAIL_USER = {mail_user}
+ ```
  
  #### MAIL_PASSWORD
  
- Parameter required for authorization to access the deploy platform.</br>
- Simple Example: MAIL_PASSWORD = {mail_password} </br></br>
-
+ Parameter required for authorization to access the deploy platform.
+ ```
+ MAIL_PASSWORD = {mail_password}
+ ```
+ </br>
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
 
