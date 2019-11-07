@@ -33,42 +33,42 @@ Set the following variables for the project in docker-compse.yml:
 
  > JWT </br>
  
-JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.
+JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.</br>
 Simple Example: JWT_SECRET = {jwt_secret} </br></br>
  
  > DB_URL
  
- Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.
+ Is the required JDBC String to connect to mysql database with java or the mysql workbench tool too.</br>
  Simple Example: DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br></br>
  
  > DB_USER
  
- Parameter required for database access authorization.
+ Parameter required for database access authorization.</br>
  Simple Example: DB_USER = {username} </br></br>
  
  > DB_PASSWORD
  
- Parameter required for database access authorization.
+ Parameter required for database access authorization.</br>
  Simple Example: DB_PASSWORD = {password} </br></br>
  
  > MAIL_HOST
  
- Parameter required for authorization to access the deploy platform.
+ Parameter required for authorization to access the deploy platform.</br>
  Simple Example: MAIL_HOST = {mail_host} </br></br>
  
  > MAIL_PORT
  
- Parameter required for authorization to access the deploy platform.
+ Parameter required for authorization to access the deploy platform.</br>
  Simple Example: MAIL_PORT = {mail_port} </br></br>
  
  > MAIL_USER
  
- Parameter required for authorization to access the deploy platform.
+ Parameter required for authorization to access the deploy platform.</br>
  Simple Example: MAIL_USER = {mail_user} </br></br>
  
  > MAIL_PASSWORD
  
- Parameter required for authorization to access the deploy platform.
+ Parameter required for authorization to access the deploy platform.</br>
  Simple Example: MAIL_PASSWORD = {mail_password} </br></br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
