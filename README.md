@@ -104,7 +104,7 @@ cd lm-instala-parameters
   DB_PASSWORD = {password}
  ```
  
- ##### MAIL_HOST #####
+ ##### MAIL_HOST
  
  Parameter required for authorization to access the deploy platform.
  ```
@@ -188,6 +188,14 @@ When all components are started, you can access the app at :
 
 
 </br></br>
+
+## Testing
+
+To run the tests, run the command
+
+```
+mvn test
+```
 
 
 # Main Features
