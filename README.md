@@ -6,11 +6,12 @@
 
 > Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) **Install** for parameter definition project developed by [Develcode Tecnologia](https://www.develcode.com.br/).
 
-</br></br></br></br>
+</br></br></br>
 
 ## What is this repository for
 > The **Lm-Instala-Parameters** is for configuring system parameters, such as which service integrates with other APIs, as well as some settings of the system or module itself.
-</br></br>
+
+</br></br></br>
 
 ## Requirements
 > - [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit (min version 8)
@@ -20,7 +21,7 @@
 > - [Docker-compose](https://docs.docker.com/compose/) - Container orchestrator
 > - [Firebase](DEVELOPERS.md)
 
-</br></br>
+</br></br></br>
 
 ## Environment variables:
 
@@ -33,7 +34,7 @@
  > ##### MAIL_USER = {mail_user} </br>
  > ##### MAIL_PASSWORD = {mail_password} </br>
 
-</br></br>
+</br></br></br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
