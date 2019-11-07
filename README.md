@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala.png">
+<img align="right" width="40%" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala_146x146.png">
 
 # Lm-Instala-Parameters
 
