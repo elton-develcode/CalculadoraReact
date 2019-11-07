@@ -36,6 +36,9 @@ Basic technologies / hardware needed for the project:
   
  </br></br>
 
+### Quick start
+
+
 ## Environment variables:
 Set the following variables for the project in _docker-compse.yml_:
 </br></br>
