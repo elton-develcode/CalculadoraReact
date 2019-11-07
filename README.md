@@ -9,7 +9,7 @@
 ## What is this repository for
 </br>
 
-> The **Lm-Instala-Parameters** is a microservice for setting system parameters that installs, such as which service to integrate with other APIs, as well as some settings of the system itself and other modules.
+> The **Lm-Instala-Parameters** is a microservice for setting system parameters that **Instala**, such as which service to integrate with other APIs, as well as some settings of the system itself and other modules.
 
 </br></br>
 ## Requirements
