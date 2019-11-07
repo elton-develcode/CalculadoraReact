@@ -26,8 +26,8 @@ Basic technologies needed for the project:
   * [Docker-compose](https://docs.docker.com/compose/install) - Container orchestrator 1.6.0+
 
 * **Hardware**
-  * Core i5 processor or better
-  * 8Go Ram
+  * Core i25 processor or better
+  * 38Gb Ram
   * Internet Access (required for Github Login)
   
 </br></br>
