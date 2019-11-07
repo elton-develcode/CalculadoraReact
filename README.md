@@ -12,7 +12,7 @@ Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** fo
 
 </br>
 
-**Why:** [State repository goals/what problem(s) it solves. [Why was it created](https://ianjseath.wordpress.com/2016/06/13/the-golden-circle-for-project-success-start-with-why/).]
+**Why:** It was created to suit the install platform because it needs to configure parameters differently for each Base Unit (BU).
 
 </br>
 
