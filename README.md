@@ -71,3 +71,6 @@ Simple Example: JWT_SECRET = {jwt_secret} </br></br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
+
+After configuring docker-compose, at the root of the folder execute the command:</br> 
+> docker-compose up --build
