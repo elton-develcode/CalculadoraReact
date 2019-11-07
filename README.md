@@ -6,7 +6,7 @@
 
 > Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) **Install** for parameter definition project developed by [Develcode Tecnologia](https://www.develcode.com.br/).
 
-</br></br></br></br></br></br>
+</br></br></br></br>
 
 ## What is this repository for
 > The **Lm-Instala-Parameters** is for configuring system parameters, such as which service integrates with other APIs, as well as some settings of the system or module itself.
