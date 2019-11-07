@@ -30,7 +30,6 @@ Basic technologies / hardware needed for the project:
   * 2Gb Ram (recommended min 4GB)
   * Internet Access (required for Github Login)
   
-</br></br>
 
 * **Accounts**
   * [Adeo Artifactory](https://adeo.jfrog.io) account with an API Key to access prebuild Docker images
