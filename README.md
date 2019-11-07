@@ -13,11 +13,11 @@
 
 ## Requirements
 > - [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit (min version 8)
-  - [Maven](https://maven.apache.org/) - Dependency management (mim version 3.3)
-  - [Mysql](https://www.mysql.com/) - Database
-  - [Docker](https://www.docker.com/) - Infrastructure settings
-  - [Docker-compose](https://docs.docker.com/compose/) - Container orchestrator
-  - [Firebase](DEVELOPERS.md)
+> - [Maven](https://maven.apache.org/) - Dependency management (mim version 3.3)
+> - [Mysql](https://www.mysql.com/) - Database
+> - [Docker](https://www.docker.com/) - Infrastructure settings
+> - [Docker-compose](https://docs.docker.com/compose/) - Container orchestrator
+> - [Firebase](DEVELOPERS.md)
 
 
 ## Environment variables:
