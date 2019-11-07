@@ -22,14 +22,14 @@
 
 ## Environment variables:
 
- > JWT_SECRET = {jwt_secret} </br>
- > DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} 
- > DB_USER = {username}
- > DB_PASSWORD = {password}
- > MAIL_HOST = {mail_host}
- > MAIL_PORT = {mail_port}
- > MAIL_USER = {mail_user}
- > MAIL_PASSWORD = {mail_password}
+ > ##### JWT_SECRET = {jwt_secret} </br>
+ > ##### DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
+ > ##### DB_USER = {username} </br>
+ > ##### DB_PASSWORD = {password} </br>
+ > ##### MAIL_HOST = {mail_host} </br>
+ > ##### MAIL_PORT = {mail_port} </br>
+ > ##### MAIL_USER = {mail_user} </br>
+ > ##### MAIL_PASSWORD = {mail_password} </br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
