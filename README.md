@@ -73,7 +73,7 @@ cd lm-instala-parameters
 
 ### Configuring It
 
-#### JWT 
+ * **JWT** 
  
 JSON Web Token (JWT) is an industry-standard RCT 7519 method for performing two-party authentication through a signed token that authenticates a web request. This token is a Base64 code that stores JSON objects with data that allows request authentication.</br>
 Simple Example: JWT_SECRET = {jwt_secret} </br></br>
