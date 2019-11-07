@@ -53,7 +53,7 @@ docker login adeo-docker-lmfr-api-dev.jfrog.io
 ```sh
 git clone https://github.com/leroy-merlin-br/lm-instala-parameters.git
 
-cd innersource-advisor/demo
+cd lm-instala-parameters
 ```
 
 3. Use docker-compose to start :
