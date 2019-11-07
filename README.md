@@ -24,6 +24,8 @@
 
 ## Environment variables:
 
+Set the following variables for the project:
+
  > ##### JWT_SECRET = {jwt_secret} </br>
  > ##### DB_URL = jdbc:mysql://{ip}:{port}/{db_schema} </br>
  > ##### DB_USER = {username} </br>
