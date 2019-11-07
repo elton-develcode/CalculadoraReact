@@ -19,6 +19,7 @@
 > - [Docker-compose](https://docs.docker.com/compose/) - Container orchestrator
 > - [Firebase](DEVELOPERS.md)
 
+</br></br>
 
 ## Environment variables:
 
@@ -30,6 +31,8 @@
  > ##### MAIL_PORT = {mail_port} </br>
  > ##### MAIL_USER = {mail_user} </br>
  > ##### MAIL_PASSWORD = {mail_password} </br>
+
+</br></br>
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
