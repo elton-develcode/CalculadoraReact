@@ -122,3 +122,5 @@ services:
 </br></br></br>
 
 # Main Features
+
+ - Translation Configuration Parameters
