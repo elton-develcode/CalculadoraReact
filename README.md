@@ -1,8 +1,4 @@
-[![JAVA][npm-image]][java-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 </br></br></br></br>
-
 <img width=40% align="left" src="https://github.com/leroy-merlin-br/jobs/blob/master/logo.png">
 <img width=40% align="right" src="https://github.com/elton-develcode/images/blob/master/logos/develcode2.png">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
@@ -38,11 +34,3 @@
 
 Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
-
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[java-url]: https://www.oracle.com/technetwork/pt/java/javase/overview/index.html
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
