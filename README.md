@@ -16,7 +16,7 @@ The **Lm-Instala-Parameters** is a microservice for setting system parameters th
 </br></br>
 ## Requirements
 
-Basic technologies needed for the project:
+Basic technologies / hardware needed for the project:
 
 * **Software**
   * [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit 8+
@@ -26,8 +26,8 @@ Basic technologies needed for the project:
   * [Docker-compose](https://docs.docker.com/compose/install) - Container orchestrator 1.6.0+
 
 * **Hardware**
-  * Core i25 processor or better
-  * 38Gb Ram
+  * Core i3 processor or better
+  * 4Gb Ram
   * Internet Access (required for Github Login)
   
 </br></br>
