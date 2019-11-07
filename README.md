@@ -2,7 +2,7 @@
 
 # Lm-Instala-Parameters
 
-Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) **Instala** for parameter definition project.
+Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for parameter definition project.
 
 </br></br>
 
