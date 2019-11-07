@@ -6,7 +6,7 @@ Microservice of the [Leroy Merlin](https://www.leroymerlin.com.br/) installs pro
 
 # What is this repository for
 
-The **Lm-Instala-Base** is meant to be a template for new LmInstala modules.
+The **Lm-Instala-Parameters** is for configuring system parameters, such as which service integrates with other APIs.
 
 # Requirements
 
