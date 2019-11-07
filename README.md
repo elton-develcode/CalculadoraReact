@@ -52,6 +52,7 @@ docker login adeo-docker-lmfr-api-dev.jfrog.io
 
 ```sh
 git clone https://github.com/leroy-merlin-br/lm-instala-parameters.git
+
 cd lm-instala-parameters
 ```
 
