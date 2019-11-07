@@ -28,7 +28,7 @@ Basic technologies needed for the project:
 </br></br>
 
 ## Environment variables:
-Set the following variables for the project:
+Set the following variables for the project in docker-compse.yml:
 </br></br>
 
  > JWT </br>
