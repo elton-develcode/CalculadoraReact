@@ -14,7 +14,7 @@ The **Lm-Instala-Parameters** is a microservice for setting system parameters th
 </br></br>
 ## Requirements
 Basic technologies needed for the project:
-</br></br>
+</br>
 
  - [Java JDK](https://www.oracle.com/technetwork/pt/java/javase/overview/index.html) - Java Development Kit (min version 8)
  - [Maven](https://maven.apache.org/) - Dependency management (mim version 3.3)
