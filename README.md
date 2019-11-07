@@ -42,6 +42,7 @@ Basic technologies / hardware needed for the project:
 
 ```sh
 docker login adeo-docker-lmfr-api-release.jfrog.io
+
 docker login adeo-docker-lmfr-api-dev.jfrog.io
 ```
 
