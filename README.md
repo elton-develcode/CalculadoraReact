@@ -193,9 +193,12 @@ Maven himself is in charge of running the tests and returning the results.
 
 ## Contributing
 
-Reporting bugs or unexpected behavior, and/or non-standard code 
+Reporting bugs or unexpected behavior, and/or non-standard code
+
+You might want to open an issue to discuss something that you believe that should belong to this API or even go ahead and open a Pull Request with your proposal. We have a Continuous Integration server that will make sure that the tests are passing and the coding standard is ok. Also, all pull requests are reviewed. :)
 
  * [contributing.md](https://github.com/leroy-merlin-br/lm-mobile-api/blob/developer/CONTRIBUTING.md)
+ * [Code of Conduct](https://github.com/adeo/lm-instala-parameters/blob/developer/CODE_OF_CONDUCT.md)
  
  </br></br>
  
