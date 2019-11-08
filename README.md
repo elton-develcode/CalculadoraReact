@@ -201,7 +201,7 @@ Reporting bugs or unexpected behavior, and/or non-standard code
  
  ## Maintainers
   
-  * [Emerson Danieleski](emerson.danieleski@develcode.com.br)
+  * [Emerson Danieleski - emerson.danieleski@develcode.com.br](emerson.danieleski@develcode.com.br)
   * [Gabriel Souza](gsouza@ext.leroymerlin.com.br)
   * [João P. Grasselli](joao.grasselli@develcode.com.br)
   
