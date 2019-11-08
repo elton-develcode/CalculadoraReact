@@ -196,8 +196,8 @@ Reporting bugs or unexpected behavior, and/or non-standard code
  
  ## Maintainers
   
-  * Emerson Danieleski [email#email.com]
-  * Gabriel [email#email.com]
-  * João P. Grasselli [email#email.com]
+  * Emerson Danieleski [emerson.danieleski@develcode.com.br]
+  * Gabriel Souza [gsouza@ext.leroymerlin.com.br]
+  * João P. Grasselli [joao.grasselli@develcode.com.br]
   
   </br></br></br>
