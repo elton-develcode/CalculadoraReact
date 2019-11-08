@@ -26,7 +26,12 @@ The **Lm-Instala-Parameters** is a microservice for setting system parameters th
 
 </br>
 
-Any system that needs some configuration other than the default.
+Let's suppose that you have a specific parameter, for example, an URL for sales or test system. 
+
+Possibly this parameter can be changed and you would have to change it everywhere in the system that needs this url. So this Installa module helps with this setup.
+
+Some configurations of this module: Time zone, emails, phones present in the application ...
+
 </br></br>
 
 ## Getting started
