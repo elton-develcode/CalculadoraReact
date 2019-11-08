@@ -10,7 +10,7 @@ Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** fo
 
 </br>
 
-**Why:** :It is designed to allow the base unit (BU) to use standard or differentiated parameters.
+**Why:** It is designed to allow the base unit (BU) to use standard or differentiated parameters.
 
 **What:** Returns or save parameters as requiremented by the base unit (BU).
 </br></br></br>
