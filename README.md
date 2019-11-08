@@ -32,6 +32,8 @@ Possibly this parameter can be changed and you would have to change it everywher
 
 Some settings of this module: Time zone, emails, phones and others present in the application.
 
+INSTALA API (this repository), by other hand, takes lm-instala-parameters and exposes as a RESTful API, with specific configuration that makes sense for implementation.
+
 </br></br>
 
 ## Getting started
