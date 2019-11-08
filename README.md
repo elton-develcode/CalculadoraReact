@@ -30,7 +30,7 @@ Let's suppose that you have a specific parameter, for example, an URL for sales 
 
 Possibly this parameter can be changed and you would have to change it everywhere in the system that needs this url. So this Installa module helps with this setup.
 
-Some configurations of this module: Time zone, emails, phones present in the application ...
+Some settings of this module: Time zone, emails, phones and others present in the application.
 
 </br></br>
 
